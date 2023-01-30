@@ -1,0 +1,7 @@
+Canonical: https://j12.dev/.well-known/security.txt
+Canonical: https://jacksonrakena.com/.well-known/security.txt
+Encryption: https://j12.dev/.well-known/jacksonrakena.pgp
+Contact: mailto:jackson@rakena.co.nz
+Contact: mailto:security@gradekeeper.xyz
+Expires: 2024-01-30T00:00:00.000Z
+Preferred-Languages: en, mri
