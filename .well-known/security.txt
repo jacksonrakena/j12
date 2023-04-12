@@ -2,6 +2,8 @@ Canonical: https://j12.dev/.well-known/security.txt
 Canonical: https://jacksonrakena.com/.well-known/security.txt
 Encryption: https://j12.dev/.well-known/jacksonrakena.pgp
 Contact: mailto:jackson@rakena.co.nz
+Ether: 0x621A25Fd16Bed86CD4Fdbb80011F8d29DDfF396C
+Monero: 49gtcRrLXrgUj25XnmjZ2X7Qa1LU1AjvJ2ennCb4XHaxM1QSpZKWBmFZdHof7QRT9jUD5vG5hgkbk6fiwXcyXNApHwm7aQ3
 Contact: mailto:security@gradekeeper.xyz
 Expires: 2024-01-30T00:00:00.000Z
 Preferred-Languages: en, mri
